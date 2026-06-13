@@ -90,7 +90,8 @@ Janela Anônima: Verificação de permissões públicas para garantir que nenhum
 
 ---
 
-## Documento de Planelamento de Implatação Completo no PDF deste repositorio: <code>docs/Planejamento de Implementação.pdf</code> 
+## Documento de Planelamento de Implatação Completo:
+Em PDF neste repositório: <code>docs/Planejamento de Implementação.pdf</code> 
 <br><br><br><br><br>
 <a href="https://www.linkedin.com/in/danilo-andrade-b4a523258">
   <img src="https://imgs.search.brave.com/uIVOEoybk0hTmltyke8eQLu4sfCXb9H_yWhfrB96iOM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2xpbmtlZGluLWxv/Z28tdHJhbnNwYXJl/bnQtcGljdHVyZS0z/MS5wbmc" align="center" heigth="40" width="50">
