@@ -13,7 +13,8 @@
 </head>
 <body >
     <h1>PortfólioHub - Documentação de Implementação</h1>
-    <p>Este repositório hospeda a camada técnica e a documentação do meu projeto final do Bootcamp.</p><br>
+    <p>Este repositório hospeda a camada técnica e a documentação do meu projeto final do Bootcamp. <br>
+    E possivel ver o codigo do Portifolio no arquivo Portifolio.html</p><br>
     <h2>Acesso ao Portfólio Visual</h2>
     <p>A interface visual e institucional deste portfólio foi desenvolvida e está hospedada no Google Sites.</p>
     <!-- LINK PARA O SEU GOOGLE SITES AQUI -->
