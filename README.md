@@ -85,8 +85,9 @@ Janela Anônima: Verificação de permissões públicas para garantir que nenhum
 
 4:30 - 5:00 | Fechamento: Conclusão do projeto e Call to Action para contatos.
 
-Para ver o documento de Planelamento com mais informação acesse o PDF neste repositorio: <code></code> 
 ---
+
+## Documento de Planelamento de Implatação Completo no PDF deste repositorio: <code></code> 
 <br><br><br><br><br>
 <a href="https://www.linkedin.com/in/danilo-andrade-b4a523258">
   <img src="https://imgs.search.brave.com/uIVOEoybk0hTmltyke8eQLu4sfCXb9H_yWhfrB96iOM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2xpbmtlZGluLWxv/Z28tdHJhbnNwYXJl/bnQtcGljdHVyZS0z/MS5wbmc" align="center" heigth="40" width="50">
