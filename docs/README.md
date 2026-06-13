@@ -17,6 +17,7 @@
     <p>O código-fonte do projeto prático está localizado no arquivo  <code>Portifolio.html</code> deste repositório.</p>
 </body>
 </html>
+
 # Documentação Técnica de Implementação: PortfólioHub
 
 Este documento consolida o planejamento, a engenharia, os parâmetros de segurança e a estratégia de lançamento do ecossistema **PortfólioHub** — uma infraestrutura unificada que conecta o Google Sites, o GitHub, o GitHub Pages e o LinkedIn para criar uma vitrine profissional de alto impacto técnico.
