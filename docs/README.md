@@ -8,13 +8,15 @@
 </head>
 <body >
     <h1>PortfólioHub - Documentação de Implementação</h1>
-    <p>Este repositório hospeda a camada técnica e a documentação do meu projeto final do Bootcamp.</p><br>
-    <h2>Acesso ao Portfólio Visual</h2>
-    <p>A interface visual e institucional deste portfólio foi desenvolvida e está hospedada no Google Sites.</p>
-    <!-- LINK PARA O SEU GOOGLE SITES AQUI -->
-    <a href="https://sites.google.com/view/portifolio-danilo-engsoftware/in%C3%ADcio" class="btn" target="_blank">Acessar Portfólio no Google Sites</a><br>
-    <h2>Especificações Técnicas</h2>
-    <p>O código-fonte do projeto prático está localizado no arquivo  <code>Portifolio.html</code> deste repositório.</p>
+        <p>Este repositório hospeda a camada técnica e a documentação do meu projeto final do Bootcamp que sua essencia e um Portifolio Pessoal e Proficional.</p><br>
+    <ol>
+        <li><h3>Acesso ao Portfólio Visual</h3></li>
+            <p>A interface visual e institucional deste portfólio foi desenvolvida e está hospedada no Google Sites.</p>
+            <!-- LINK PARA O SEU GOOGLE SITES AQUI -->
+            <a href="https://sites.google.com/view/portifolio-danilo-engsoftware/in%C3%ADcio" class="btn" target="_blank">Acessar Portfólio no Google Sites</a><br>
+        <li><h3>Especificações Técnicas</h3></li>
+            <p>O código-fonte do projeto prático está localizado no arquivo  <code>src/Portifolio.html</code> deste repositório.</p>
+    </ol>
 </body>
 </html>
 
@@ -39,7 +41,7 @@ O **PortfólioHub** é um ecossistema integrado que une **Google Sites, GitHub, 
 ## 📁 2. Arquitetura do Repositório (`github-page`)
 
 github-page/
-├── docs/            # Documentação técnica servida no GitHub Pages (index.html)
+├── docs/            # Documentação técnica servida no GitHub Pages (README.md e PDF)
 ├── src/             # Código-fonte do projeto técnico do Bootcamp (main.py)
 └── README.md        # Esta página de apresentação do ecossistema
 Deploy: Configurado via Settings > Pages apontando para a branch main na pasta /docs.
@@ -88,7 +90,7 @@ Janela Anônima: Verificação de permissões públicas para garantir que nenhum
 
 ---
 
-## Documento de Planelamento de Implatação Completo no PDF deste repositorio: <code></code> 
+## Documento de Planelamento de Implatação Completo no PDF deste repositorio: <code>docs/Planejamento de Implementação.pdf</code> 
 <br><br><br><br><br>
 <a href="https://www.linkedin.com/in/danilo-andrade-b4a523258">
   <img src="https://imgs.search.brave.com/uIVOEoybk0hTmltyke8eQLu4sfCXb9H_yWhfrB96iOM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/ZnJlZXBuZ2xvZ29z/LmNvbS91cGxvYWRz/L2xpbmtlZGluLWxv/Z28tdHJhbnNwYXJl/bnQtcGljdHVyZS0z/MS5wbmc" align="center" heigth="40" width="50">
